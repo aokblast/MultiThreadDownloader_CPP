@@ -7,6 +7,7 @@
 
 #include <string>
 #include <thread>
+#include <atomic>
 
 class HttpDownloader {
 public:
